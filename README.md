@@ -11,10 +11,11 @@ Currently completing my **MSc in Applied Computer Science** at Wrocław Universi
 
 ---
 
-## 📫 Get in Touch  
-📧 [mateusznasewicz@proton.me](mailto:mateusznasewicz@proton.me)  
-🔗 [LinkedIn](#)
+## 🔗 Connect & Get in Touch 
 
+🚀 **Portfolio:** [mateusznasewicz.github.io](https://mateusznasewicz.github.io)
+📧 [mateusznasewicz@proton.me](mailto:mateusznasewicz@proton.me)
+🔗 [LinkedIn](#)
 ---
 
 <picture>
