@@ -5,7 +5,7 @@ I focus on **Spring**, **Angular**, and modern **cloud-native architectures** �
 
 Currently completing my **MSc in Applied Computer Science** at Wrocław University of Science and Technology.
 
-**⭐ See my work in action:** [mateusznasewicz.github.io](https://mateusznasewicz.github.io)
+**⭐ See my work in action:** [mateusznasewicz.dev](https://mateusznasewicz.dev)
 
 💡 Always exploring new ways to make code more elegant, resilient, and maintainable.  
 
