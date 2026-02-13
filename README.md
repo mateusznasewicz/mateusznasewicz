@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Mateusz Nasewicz  
 
 I'm a **Java & Full-Stack Developer** passionate about building clean, scalable, and testable software.  
-I focus on **Spring**, **Angular**, and modern **cloud-native architectures** — from robust backends to refined frontends.  
+I focus on **Spring**, **Angular**, and modern **cloud-native architectures** - from robust backends to refined frontends.  
 
 Currently completing my **MSc in Applied Computer Science** at Wrocław University of Science and Technology.
 
 **⭐ See my work in action:** [mateusznasewicz.dev](https://mateusznasewicz.dev)
 
-💡 Always exploring new ways to make code more elegant, resilient, and maintainable.  
+🙂 I just enjoy building things that work well and look good.  
 
 ---
 
 ## 📫 Connect & Get in Touch  
 💻 **Portfolio:** [mateusznasewicz.dev](https://mateusznasewicz.dev)  
 📧 [mateusznasewicz@proton.me](mailto:mateusznasewicz@proton.me)  
-🔗 [LinkedIn](#)  
+🔗 [LinkedIn]([#](https://www.linkedin.com/in/mateusz-nasewicz/)  
 
 ---
 
